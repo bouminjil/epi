@@ -1,0 +1,138 @@
+{
+    "Header": {
+
+        "title": "E.P.I  Solution",
+        "title2": "E.Pffghfghhf.I  Solution",
+
+        "paragraph": " E.P.I propose à ses clients industriels des gammes complètes  pour l’installation, la maintenance et la rénovation des équipements pour l'industrie"
+
+    },
+    "About": {
+        "paragraph": "E.P.I offers its industrial customers complete ranges for the installation, maintenance and renovation of equipment for Industry",
+        "Why": [
+            "Competitive prices",
+            "Many choices",
+            "Speed to delivery the demands",
+            "Excellent quality "
+        ],
+        "Why2": [
+            "Specialized technical team",
+            "Phone customers to answer your questions and receive your requests",
+            "After sales service"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Good Service and Professional Team .\"",
+            "name": "TMI"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Hight Quality.\"",
+            "name": "EPS"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Speed Service i enjoy work with a proffesional company Like EPI.\"",
+            "name": "2MTI"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"I idvice companies to work with EPI you will earn a lot .\"",
+            "name": "EGMT"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Nothings to say just PERFECT.\"",
+            "name": "SFC"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\" with EPI you'll find what you search (Qualities , good service , proffessional Team).\"",
+            "name": "TollsIND"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Hamza Janeb",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mohamed Ali Hamila",
+            "job": "Commercial"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "El Bnaya",
+            "job": "Administration and accounting"
+        },
+        {
+            "img": "img/team/04.jpeg",
+            "name": "Fayçal Ben Mabrouk",
+            "job": "Commercial"
+        }
+
+    ],
+    "Contact": {
+        "address": "4000 zaouiet sousse/ Sousse / Tunisie ",
+        "phone": "+216 55 200 400 / 55 200 900",
+        "email": "commercial1.epi@gmail.com  - commercial2.epi@gmail.com",
+          "facebook": "https://www.facebook.com/epi.industrie/",
+         "twitter": "https://www.twitter.com/epi.industrie/",
+        "youtube": "youtube.com/epi-industrie"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}

@@ -3,8 +3,9 @@
   "private": true,
   "homepage": "https://bouminjil.github.io/epi/",
   "scripts": {
-    "start": "meteor run",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "start": "meteor run",
     "build": "react-scripts build",
     "test": "meteor test --once --driver-package meteortesting:mocha",
     "test-app": "TEST_WATCH=1 meteor test --full-app --driver-package meteortesting:mocha",

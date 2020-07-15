@@ -1,10 +1,8 @@
 {
   "name": "landingpage-react-template",
   "private": true,
-  "homepage": "https://bouminjil.github.io/epi/",
+  "homepage": "/",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "meteor run",
     "build": "react-scripts build",
     "test": "meteor test --once --driver-package meteortesting:mocha",
